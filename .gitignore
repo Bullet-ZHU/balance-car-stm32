@@ -1,0 +1,16 @@
+# Keil uVision generated output and local settings
+MDK-ARM/Balabce_Car/
+MDK-ARM/.vscode/
+MDK-ARM/*.uvoptx
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.lst
+
+# Local experiments, backups, and temporary files
+logs/
+tmp/
+__pycache__/
+*.pyc
+
+# OS and editor metadata
+.DS_Store
+Thumbs.db
